@@ -7,7 +7,7 @@ A machine learning project that predicts the risk of cardiovascular disease base
 ## 📁 Project Structure
 
 ```
-├── session22healthy.ipynb   # Main notebook (EDA + modeling)
+├── HealthCare p.ipynb   # Main notebook (EDA + modeling)
 ├── health_data.csv          # Dataset
 └── README.md
 ```
