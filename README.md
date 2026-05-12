@@ -82,7 +82,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn lightgbm
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/YOUR_USERNAM/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
 ```
 
@@ -93,7 +93,7 @@ pip install -r requirements.txt
 
 3. Open the notebook:
 ```bash
-jupyter notebook session22healthy.ipynb
+jupyter notebook HealthCare p.ipynb
 ```
 
 ---
